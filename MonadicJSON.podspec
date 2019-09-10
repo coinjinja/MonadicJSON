@@ -8,7 +8,6 @@ A JSONDecoder that correctly preserves the values of floating point numbers.
                        DESC
 
   s.homepage         = 'https://github.com/coinjinja/MonadicJSON'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Qata' => 'charlotte@monadic.consulting' }
   s.source           = { :git => 'https://github.com/Qata/MonadicJSON', :tag => s.version.to_s }
   s.social_media_url = 'https://github.com/MonadicConsulting'
