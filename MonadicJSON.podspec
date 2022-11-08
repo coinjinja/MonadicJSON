@@ -16,7 +16,6 @@ A JSONDecoder that correctly preserves the values of floating point numbers.
   s.tvos.deployment_target = '11.0'
   s.osx.deployment_target = '10.10'
   s.watchos.deployment_target = '4.0'
-
-  s.requires_arc = true
-  s.source_files = 'Sources/*.swift'  
+  
+  s.source_files = 'Sources/MonadicJSON/*.swift'  
 end
